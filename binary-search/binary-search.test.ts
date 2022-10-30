@@ -1,4 +1,4 @@
-import { iterativeBinarySearch } from './binary-search-interactive'
+import { iterativeBinarySearch } from './iteractive-binary-search'
 
 describe('Binary search', () => {
   const database = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
