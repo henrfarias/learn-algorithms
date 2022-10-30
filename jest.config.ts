@@ -19,6 +19,6 @@ export default {
   // modulePathIgnorePatterns: [],
   // resetMocks: true,
   restoreMocks: true,
-  verbose: false,
+  verbose: true,
   transform: {}
 };
